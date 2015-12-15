@@ -1,0 +1,3 @@
+T10	Entity 954 966	NH2 terminus
+T11	Protein_amino_acid_acetylation 985 995	acetylated
+E1	Protein_amino_acid_acetylation:T11 Theme:T4 Site:T10

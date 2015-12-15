@@ -1,0 +1,2 @@
+Localization of methylated arginine in the A1 protein from myelin. 
+Methylated arginine residues are found at only one site (position 107) of the polypeptide chain of the A1 protein, as shown by analysis of tryptic and peptic peptides; these analyses show 0.2 mole of N(G)-dimethylarginine and 0.4-0.8 mole of N(G)-monomethylarginine per mole of A1 protein. 

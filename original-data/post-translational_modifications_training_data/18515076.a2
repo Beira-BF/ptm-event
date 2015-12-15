@@ -1,0 +1,5 @@
+T11	Protein_amino_acid_methylation 448 494	generating symmetric dimethylarginine residues
+T12	Positive_regulation 448 494	generating symmetric dimethylarginine residues
+T13	Entity 469 494	dimethylarginine residues
+E1	Protein_amino_acid_methylation:T11 Theme:T6 Site:T13
+E2	Positive_regulation:T12 Theme:E1 Cause:T5

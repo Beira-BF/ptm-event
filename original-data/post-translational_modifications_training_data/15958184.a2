@@ -1,0 +1,20 @@
+T6	Entity 61 87	Histone methyltransferases
+T7	Entity 89 93	HMTs
+T8	Positive_regulation 95 159	catalyze the S-adenosylmethionine (AdoMet)-dependent methylation
+T9	Protein_amino_acid_methylation 95 159	catalyze the S-adenosylmethionine (AdoMet)-dependent methylation
+T10	Entity 163 170	lysines
+T11	Entity 175 184	arginines
+T12	Protein_amino_acid_methylation 1083 1094	methylation
+E1	Positive_regulation:T8 Theme:E8 Cause:T7
+E2	Protein_amino_acid_methylation:T9 Theme:T1 Site:T11
+E3	Positive_regulation:T8 Theme:E12 Cause:T7
+E4	Positive_regulation:T8 Theme:E2 Cause:T7
+E5	Protein_amino_acid_methylation:T9 Theme:T1 Site:T10
+E6	Protein_amino_acid_methylation:T9 Theme:T2 Site:T11
+E7	Protein_amino_acid_methylation:T9 Theme:T2 Site:T10
+E8	Protein_amino_acid_methylation:T9 Theme:T3 Site:T11
+E9	Positive_regulation:T8 Theme:E7 Cause:T7
+E10	Positive_regulation:T8 Theme:E6 Cause:T7
+E11	Positive_regulation:T8 Theme:E5 Cause:T7
+E12	Protein_amino_acid_methylation:T9 Theme:T3 Site:T10
+E13	Protein_amino_acid_methylation:T12 Theme:T4

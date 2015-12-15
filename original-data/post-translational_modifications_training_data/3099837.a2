@@ -1,0 +1,3 @@
+T3	Entity 392 410	amino-terminal end
+T4	Protein_amino_acid_acetylation 437 465	blocked with an acetyl group
+E1	Protein_amino_acid_acetylation:T4 Theme:T2 Site:T3

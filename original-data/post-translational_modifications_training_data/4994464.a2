@@ -1,0 +1,6 @@
+*	Equiv T2 T1
+T4	Entity 27 35	arginine
+T5	Protein_amino_acid_methylation 68 78	Methylated
+T6	Entity 79 87	arginine
+T7	Entity 171 181	A1 protein
+E1	Protein_amino_acid_methylation:T5 Theme:T3 Site:T6

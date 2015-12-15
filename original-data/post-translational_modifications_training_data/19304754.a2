@@ -1,0 +1,6 @@
+T23	Protein_amino_acid_acetylation 538 548	acetylates
+T24	Entity 549 556	lysines
+T25	Protein_amino_acid_acetylation 659 674	autoacetylation
+E1	Protein_amino_acid_acetylation:T23 Theme:T14 Site:T24
+E2	Protein_amino_acid_acetylation:T23 Theme:T15 Site:T24
+E3	Protein_amino_acid_acetylation:T25 Theme:T17

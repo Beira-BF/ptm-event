@@ -1,0 +1,8 @@
+*	Equiv T2 T2
+T3	Protein_amino_acid_glycosylation 82 94	glycosylated
+T4	Entity 95 107	component C3
+T5	Entity 154 166	component C3
+T6	Protein_amino_acid_glycosylation 724 757	oligosaccharide chain is attached
+T7	Entity 800 813	asparagine-17
+E1	Protein_amino_acid_glycosylation:T3 Theme:T1 Site:T4
+E2	Protein_amino_acid_glycosylation:T6 Theme:T2 Site:T7

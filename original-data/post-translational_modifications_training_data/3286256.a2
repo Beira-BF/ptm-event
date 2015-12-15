@@ -1,0 +1,3 @@
+T4	Protein_amino_acid_acetylation 1223 1243	blocked by acylation
+T5	Entity 1251 1271	initiator methionine
+E1	Protein_amino_acid_acetylation:T4 Theme:T2 Site:T5

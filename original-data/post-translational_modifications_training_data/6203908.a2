@@ -1,0 +1,17 @@
+T7	Protein_amino_acid_glycosylation 244 297	Glucosamine-based oligosaccharide groups are attached
+T8	Entity 301 323	asparagine residues 32
+T9	Entity 325 327	47
+T10	Entity 329 332	224
+T11	Entity 334 337	373
+T12	Entity 339 342	387
+T13	Entity 344 347	846
+T14	Entity 349 352	968
+T15	Entity 358 362	1401
+E1	Protein_amino_acid_glycosylation:T7 Theme:T2 Site:T14
+E2	Protein_amino_acid_glycosylation:T7 Theme:T2 Site:T13
+E3	Protein_amino_acid_glycosylation:T7 Theme:T2 Site:T8
+E4	Protein_amino_acid_glycosylation:T7 Theme:T2 Site:T15
+E5	Protein_amino_acid_glycosylation:T7 Theme:T2 Site:T9
+E6	Protein_amino_acid_glycosylation:T7 Theme:T2 Site:T12
+E7	Protein_amino_acid_glycosylation:T7 Theme:T2 Site:T11
+E8	Protein_amino_acid_glycosylation:T7 Theme:T2 Site:T10

@@ -1,0 +1,10 @@
+T4	Entity 216 239	126 amino acid residues
+T5	Protein_amino_acid_glycosylation 244 268	has a blocked N-terminus
+T6	Entity 553 570	lysine residues 5
+T7	Entity 572 573	8
+T8	Entity 578 580	10
+T9	Protein_amino_acid_acetylation 598 618	partially acetylated
+E1	Protein_amino_acid_glycosylation:T5 Theme:T2 Site:T4
+E2	Protein_amino_acid_acetylation:T9 Theme:T2 Site:T6
+E3	Protein_amino_acid_acetylation:T9 Theme:T2 Site:T8
+E4	Protein_amino_acid_acetylation:T9 Theme:T2 Site:T7

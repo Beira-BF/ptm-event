@@ -1,0 +1,7 @@
+T6	Protein_amino_acid_glycosylation 832 865	Oligosaccharide chains are placed
+T7	Entity 869 874	Thr-7
+T8	Entity 882 898	Asn residues 351
+T9	Entity 903 906	367
+E1	Protein_amino_acid_glycosylation:T6 Theme:T4 Site:T7
+E2	Protein_amino_acid_glycosylation:T6 Theme:T4 Site:T8
+E3	Protein_amino_acid_glycosylation:T6 Theme:T4 Site:T9

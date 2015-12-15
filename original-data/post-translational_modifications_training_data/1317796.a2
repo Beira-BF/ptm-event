@@ -1,0 +1,3 @@
+T14	Entity 507 516	N-termini
+T15	Protein_amino_acid_acetylation 553 563	acetylated
+E1	Protein_amino_acid_acetylation:T15 Theme:T9 Site:T14

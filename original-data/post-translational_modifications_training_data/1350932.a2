@@ -1,0 +1,3 @@
+T8	Protein_amino_acid_glycosylation 1422 1461	single site of glycosylation is located
+T9	Entity 1535 1538	Cys
+E1	Protein_amino_acid_glycosylation:T8 Theme:T6 Site:T9

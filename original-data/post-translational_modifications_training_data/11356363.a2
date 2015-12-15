@@ -1,0 +1,13 @@
+T4	Entity 60 67	Histone
+T5	Protein_amino_acid_methylation 68 79	methylation
+T6	Entity 395 398	Lys
+T7	Protein_amino_acid_methylation 399 410	methylation
+T8	Entity 479 482	Lys
+T9	Protein_amino_acid_methylation 483 494	methylation
+T10	Protein_amino_acid_methylation 1017 1028	methylation
+T11	Entity 1046 1050	Lys9
+E1	Protein_amino_acid_methylation:T5 Theme:T4
+E2	Protein_amino_acid_methylation:T7 Theme:T1 Site:T6
+E3	Protein_amino_acid_methylation:T7 Theme:T2 Site:T6
+E4	Protein_amino_acid_methylation:T9  Site:T8
+E5	Protein_amino_acid_methylation:T10 Theme:T3 Site:T11

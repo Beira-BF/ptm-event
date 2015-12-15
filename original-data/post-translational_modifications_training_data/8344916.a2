@@ -1,0 +1,3 @@
+T10	Entity 1048 1060	N-terminally
+T11	Protein_amino_acid_acetylation 1048 1089	N-terminally blocked with an acetyl group
+E1	Protein_amino_acid_acetylation:T11 Theme:T4 Site:T10

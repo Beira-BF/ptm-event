@@ -1,0 +1,4 @@
+T5	Entity 1522 1534	cysteine 726
+T6	Protein_amino_acid_methylation 1756 1765	 catalyze
+T7	Entity 1774 1800	cobalamin-dependent enzyme
+E1	Protein_amino_acid_methylation:T6 Theme:T4 Cause:T7 Site:T5

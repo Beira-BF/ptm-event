@@ -1,0 +1,3 @@
+T2	Entity 52 59	proline
+T3	Protein_amino_acid_hydroxylation 60 73	hydroxylation
+E1	Protein_amino_acid_hydroxylation:T3 Theme:T1 Site:T2

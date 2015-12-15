@@ -1,0 +1,6 @@
+T12	Protein_amino_acid_hydroxylation 383 401	beta-hydroxylation
+T13	Entity 405 432	aspartic acid at residue 64
+T14	Protein_amino_acid_hydroxylation 2098 2116	beta-hydroxylation
+T15	Entity 2120 2136	aspartic acid 64
+E1	Protein_amino_acid_hydroxylation:T12 Theme:T2 Site:T13
+E2	Protein_amino_acid_hydroxylation:T14 Theme:T11 Site:T15

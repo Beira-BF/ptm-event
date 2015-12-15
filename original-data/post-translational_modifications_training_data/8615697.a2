@@ -1,0 +1,41 @@
+T14	Protein_amino_acid_glycosylation 0 13	Glycosylation
+T15	Entity 54 78	N-linked oligosaccharide
+T16	Entity 921 949	N-linked glycosylation sites
+T17	Protein_amino_acid_glycosylation 1025 1037	glycosylated
+T18	Entity 1110 1122	positions 57
+T19	Entity 1124 1127	465
+T20	Entity 1129 1132	510
+T21	Entity 1134 1137	729
+T22	Entity 1139 1142	797
+T23	Entity 1144 1148	1696
+T24	Entity 1150 1154	1754
+T25	Entity 1160 1164	2230
+T26	Protein_amino_acid_glycosylation 1179 1223	linked to complex-type oligosaccharide units
+T27	Entity 1311 1325	positions 1200
+T28	Entity 1327 1331	1329
+T29	Entity 1333 1337	1993
+T30	Entity 1339 1343	2275
+T31	Entity 1349 1353	2562
+T32	Protein_amino_acid_glycosylation 1355 1386	contain high mannose type units
+T33	Entity 1405 1418	positions 179
+T34	Entity 1423 1427	1345
+T35	Protein_amino_acid_glycosylation 1433 1464	linked to oligosaccharide units
+T36	Protein_amino_acid_glycosylation 1857 1869	glycosylated
+T37	Entity 1870 1888	asparagine residue
+E1	Protein_amino_acid_glycosylation:T14 Theme:T1 Site:T15
+E2	Protein_amino_acid_glycosylation:T17 Theme:T7 Site:T16
+E3	Protein_amino_acid_glycosylation:T26 Theme:T7 Site:T24
+E4	Protein_amino_acid_glycosylation:T26 Theme:T7 Site:T20
+E5	Protein_amino_acid_glycosylation:T26 Theme:T7 Site:T19
+E6	Protein_amino_acid_glycosylation:T26 Theme:T7 Site:T23
+E7	Protein_amino_acid_glycosylation:T26 Theme:T7 Site:T22
+E8	Protein_amino_acid_glycosylation:T26 Theme:T7 Site:T18
+E9	Protein_amino_acid_glycosylation:T26 Theme:T7 Site:T21
+E10	Protein_amino_acid_glycosylation:T32 Theme:T7 Site:T30
+E11	Protein_amino_acid_glycosylation:T32 Theme:T7 Site:T31
+E12	Protein_amino_acid_glycosylation:T32 Theme:T7 Site:T27
+E13	Protein_amino_acid_glycosylation:T32 Theme:T7 Site:T29
+E14	Protein_amino_acid_glycosylation:T32 Theme:T7 Site:T28
+E15	Protein_amino_acid_glycosylation:T35 Theme:T7 Site:T34
+E16	Protein_amino_acid_glycosylation:T35 Theme:T7 Site:T33
+E17	Protein_amino_acid_glycosylation:T36 Theme:T7 Site:T37

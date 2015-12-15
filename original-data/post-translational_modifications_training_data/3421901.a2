@@ -1,0 +1,3 @@
+T5	Protein_amino_acid_acetylation 720 730	acetylated
+T6	Entity 731 737	valine
+E1	Protein_amino_acid_acetylation:T5 Theme:T2 Site:T6

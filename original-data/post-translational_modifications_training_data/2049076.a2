@@ -1,0 +1,8 @@
+T14	Entity 1180 1187	Thr-106
+T15	Protein_amino_acid_glycosylation 1211 1241	carries O-linked carbohydrates
+T16	Protein_amino_acid_glycosylation 1321 1334	glycosylation
+T17	Entity 2188 2205	threonine residue
+T18	Protein_amino_acid_glycosylation 2249 2263	O-glycosylated
+E1	Protein_amino_acid_glycosylation:T15 Theme:T10 Site:T14
+E2	Protein_amino_acid_glycosylation:T16 Theme:T11
+E3	Protein_amino_acid_glycosylation:T18 Theme:T13 Site:T17

@@ -1,0 +1,8 @@
+*	Equiv T5 T6
+*	Equiv T7 T8
+T13	Protein_amino_acid_methylation 623 637	tri-methylated
+T14	Entity 638 646	lysine 9
+T15	Protein_amino_acid_methylation 677 691	tri-methylated
+T16	Entity 692 701	lysine 20
+E1	Protein_amino_acid_methylation:T13 Theme:T5 Site:T14
+E2	Protein_amino_acid_methylation:T15 Theme:T7 Site:T16

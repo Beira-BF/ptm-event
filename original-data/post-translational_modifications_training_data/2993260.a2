@@ -1,0 +1,3 @@
+T3	Entity 380 398	amino (N)-terminus
+T4	Protein_amino_acid_acetylation 403 429	blocked by an acetyl group
+E1	Protein_amino_acid_acetylation:T4 Theme:T2 Site:T3

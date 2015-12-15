@@ -1,0 +1,5 @@
+T6	Protein_amino_acid_glycosylation 379 408	carbohydrate moiety is linked
+T7	Entity 412 422	asparagine
+T8	Entity 453 463	tryptophan
+E1	Protein_amino_acid_glycosylation:T6 Theme:T4 Site:T7
+E2	Protein_amino_acid_glycosylation:T6 Theme:T4 Site:T8

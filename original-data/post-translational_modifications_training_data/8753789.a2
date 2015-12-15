@@ -1,0 +1,3 @@
+T5	Protein_amino_acid_methylation 1011 1022	methylation
+T6	Entity 1030 1041	29th lysine
+E1	Protein_amino_acid_methylation:T5 Theme:T4 Site:T6

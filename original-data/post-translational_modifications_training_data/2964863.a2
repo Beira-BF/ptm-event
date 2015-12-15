@@ -1,0 +1,3 @@
+T6	Entity 911 930	terminal methionine
+T7	Protein_amino_acid_acetylation 980 990	acetylated
+E1	Protein_amino_acid_acetylation:T7 Theme:T3 Site:T6

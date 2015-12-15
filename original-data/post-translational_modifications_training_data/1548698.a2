@@ -1,0 +1,3 @@
+T5	Entity 906 911	Asn92
+T6	Protein_amino_acid_glycosylation 954 977	N-linked sugar moieties
+E1	Protein_amino_acid_glycosylation:T6 Theme:T2 Site:T5

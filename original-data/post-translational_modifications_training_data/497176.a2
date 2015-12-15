@@ -1,0 +1,3 @@
+T5	Protein_amino_acid_glycosylation 425 463	carbohydrate moiety, probably attached
+T6	Entity 470 480	asparagine
+E1	Protein_amino_acid_glycosylation:T5 Theme:T2 Site:T6

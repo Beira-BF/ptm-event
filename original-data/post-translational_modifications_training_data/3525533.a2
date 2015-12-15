@@ -1,0 +1,3 @@
+T8	Entity 223 229	serine
+T9	Protein_amino_acid_acetylation 253 261	acylated
+E1	Protein_amino_acid_acetylation:T9 Theme:T3 Site:T8

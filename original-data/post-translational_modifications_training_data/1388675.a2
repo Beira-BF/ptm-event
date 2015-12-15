@@ -1,0 +1,4 @@
+T15	Protein_amino_acid_acetylation 540 550	acetylated
+T16	Entity 581 584	His
+E1	Protein_amino_acid_acetylation:T15 Theme:T1 Site:T16
+E2	Protein_amino_acid_acetylation:T15 Theme:T2 Site:T16

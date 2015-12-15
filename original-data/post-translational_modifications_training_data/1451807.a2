@@ -1,0 +1,8 @@
+*	Equiv T3 T4
+*	Equiv T1 T2
+T5	Protein_amino_acid_glycosylation 65 80	O-glycosylation
+T6	Entity 84 88	Thr7
+T7	Protein_amino_acid_glycosylation 495 509	 O-glycosylate
+T8	Entity 514 518	Thr7
+E1	Protein_amino_acid_glycosylation:T5 Theme:T1 Site:T6
+E2	Protein_amino_acid_glycosylation:T7 Theme:T3 Site:T8

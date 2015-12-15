@@ -1,0 +1,6 @@
+T6	Protein_amino_acid_methylation 9 20	methylation
+T7	Protein_amino_acid_methylation 89 100	methylation
+T8	Protein_amino_acid_methylation 573 584	methylation
+E1	Protein_amino_acid_methylation:T6 Theme:T1
+E2	Protein_amino_acid_methylation:T7 Theme:T2
+E3	Protein_amino_acid_methylation:T8 Theme:T5

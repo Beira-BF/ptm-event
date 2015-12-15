@@ -1,0 +1,11 @@
+*	Equiv T4 T4
+T6	Entity 506 529	pro-major basic protein
+T7	Entity 604 609	Ser-8
+T8	Entity 611 616	Thr-9
+T9	Entity 618 624	Ser-46
+T10	Entity 629 635	Asn-70
+T11	Protein_amino_acid_glycosylation 641 653	glycosylated
+E1	Protein_amino_acid_glycosylation:T11 Theme:T4 Site:T7
+E2	Protein_amino_acid_glycosylation:T11 Theme:T4 Site:T10
+E3	Protein_amino_acid_glycosylation:T11 Theme:T4 Site:T9
+E4	Protein_amino_acid_glycosylation:T11 Theme:T4 Site:T8

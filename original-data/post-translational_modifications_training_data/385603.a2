@@ -1,0 +1,16 @@
+*	Equiv T2 T3
+T8	Protein_amino_acid_methylation 8 19	methylation
+T9	Protein_amino_acid_methylation 138 148	methylated
+T10	Entity 211 232	[methyl-3H]methionine
+T11	Protein_amino_acid_methylation 478 488	methylated
+T12	Entity 523 537	lysine residue
+T13	Protein_amino_acid_methylation 571 581	methylated
+T14	Protein_amino_acid_methylation 633 644	methylation
+T15	Protein_amino_acid_methylation 930 940	methylated
+E1	Protein_amino_acid_methylation:T8 Theme:T1
+E2	Protein_amino_acid_methylation:T9 Theme:T3 Site:T10
+E3	Protein_amino_acid_methylation:T11 Theme:T4 Site:T12
+E4	Protein_amino_acid_methylation:T13 Theme:T5
+M1	Negation E4
+E5	Protein_amino_acid_methylation:T14 Theme:T6
+E6	Protein_amino_acid_methylation:T15 Theme:T7

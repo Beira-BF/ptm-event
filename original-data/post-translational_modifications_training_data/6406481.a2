@@ -1,0 +1,3 @@
+T5	Protein_amino_acid_glycosylation 778 807	glycosylation site is located
+T6	Entity 811 821	residue 70
+E1	Protein_amino_acid_glycosylation:T5 Theme:T3 Site:T6

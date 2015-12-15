@@ -1,0 +1,4 @@
+T6	Protein_amino_acid_glycosylation 772 786	N-glycosylated
+T7	Entity 790 793	Asn
+E1	Protein_amino_acid_glycosylation:T6 Theme:T4 Site:T7
+E2	Protein_amino_acid_glycosylation:T6 Theme:T5 Site:T7

@@ -1,0 +1,4 @@
+T9	Entity 937 958	aspartic acid residue
+T10	Entity 962 979	bovine factor VII
+T11	Protein_amino_acid_hydroxylation 995 1007	 hydroxylate
+E1	Protein_amino_acid_hydroxylation:T11 Theme:T7 Site:T9

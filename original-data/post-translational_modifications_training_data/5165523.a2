@@ -1,0 +1,5 @@
+T2	Protein_amino_acid_hydroxylation 55 68	hydroxylation
+T3	Entity 72 78	lysine
+T4	Entity 83 90	proline
+E1	Protein_amino_acid_hydroxylation:T2 Theme:T1 Site:T3
+E2	Protein_amino_acid_hydroxylation:T2 Theme:T1 Site:T4

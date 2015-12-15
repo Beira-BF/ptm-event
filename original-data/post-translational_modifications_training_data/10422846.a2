@@ -1,0 +1,3 @@
+T4	Protein_amino_acid_glycosylation 993 1034	carbohydrates are O-glycosidically linked
+T5	Entity 1038 1050	threonine 10
+E1	Protein_amino_acid_glycosylation:T4 Theme:T3 Site:T5

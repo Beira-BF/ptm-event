@@ -1,0 +1,3 @@
+T8	Entity 614 621	proline
+T9	Protein_amino_acid_hydroxylation 672 698	replaced by hydroxyproline
+E1	Protein_amino_acid_hydroxylation:T9 Theme:T4 Site:T8

@@ -1,0 +1,5 @@
+T4	Protein_amino_acid_glycosylation 572 596	Carbohydrate is attached
+T5	Entity 600 607	Asn-138
+T6	Entity 612 619	Asn-263
+E1	Protein_amino_acid_glycosylation:T4 Theme:T2 Site:T5
+E2	Protein_amino_acid_glycosylation:T4 Theme:T2 Site:T6

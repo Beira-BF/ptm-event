@@ -1,0 +1,4 @@
+*	Equiv T1 T2
+T3	Protein_amino_acid_acetylation 410 420	acetylated
+T4	Entity 421 435	alanyl residue
+E1	Protein_amino_acid_acetylation:T3 Theme:T2 Site:T4

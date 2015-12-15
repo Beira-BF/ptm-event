@@ -1,0 +1,6 @@
+T9	Protein_amino_acid_methylation 545 555	methylated
+T10	Entity 568 590	N-monomethylmethionine
+T11	Protein_amino_acid_methylation 739 749	methylated
+T12	Entity 772 782	methionine
+E1	Protein_amino_acid_methylation:T9 Theme:T4 Site:T10
+E2	Protein_amino_acid_methylation:T11 Theme:T6 Site:T12

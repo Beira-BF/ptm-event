@@ -1,0 +1,5 @@
+T3	Protein_amino_acid_acetylation 256 277	acetyl group blocking
+T4	Entity 282 294	NH2 terminus
+T5	Entity 301 309	tyrosine
+E1	Protein_amino_acid_acetylation:T3 Theme:T2 Site:T4
+E2	Protein_amino_acid_acetylation:T3 Theme:T2 Site:T5

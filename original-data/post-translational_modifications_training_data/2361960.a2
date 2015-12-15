@@ -1,0 +1,9 @@
+T7	Entity 157 163	rhIL-5
+T8	Entity 584 599	rhIL-5 molecule
+T9	Entity 691 697	rhIL-5
+T10	Entity 805 810	Thr-3
+T11	Entity 815 821	Asn-28
+T12	Protein_amino_acid_glycosylation 827 839	glycosylated
+T13	Entity 889 895	rhIL-5
+E1	Protein_amino_acid_glycosylation:T12 Theme:T5 Site:T10
+E2	Protein_amino_acid_glycosylation:T12 Theme:T5 Site:T11

@@ -1,0 +1,42 @@
+*	Equiv T5 T6 T7 T8 T9 T10
+T17	Entity 18 21	K20
+T18	Protein_amino_acid_methylation 22 36	trimethylation
+T19	Protein_amino_acid_acetylation 617 627	acetylated
+T20	Entity 633 642	lysines 5
+T21	Entity 644 646	K5
+T22	Entity 649 651	K8
+T23	Entity 653 656	K12
+T24	Entity 658 661	K16
+T25	Protein_amino_acid_methylation 667 680	trimethylated
+T26	Entity 687 690	K20
+T27	Protein_amino_acid_acetylation 1094 1110	hyperacetylation
+T28	Entity 1116 1118	K5
+T29	Entity 1121 1123	K8
+T30	Protein_amino_acid_acetylation 1125 1140	hypoacetylation
+T31	Entity 1146 1149	K12
+T32	Entity 1152 1155	K16
+T33	Protein_amino_acid_methylation 1161 1189	loss of H4K20 trimethylation
+T34	Entity 1171 1174	K20
+T35	Entity 1207 1210	K20
+T36	Protein_amino_acid_methylation 1211 1225	trimethylation
+T37	Entity 1602 1605	K20
+T38	Protein_amino_acid_methylation 1606 1620	trimethylation
+E1	Protein_amino_acid_methylation:T18 Theme:T1 Site:T17
+E2	Protein_amino_acid_acetylation:T19 Theme:T4 Site:T21
+M1	Speculation E2
+E3	Protein_amino_acid_acetylation:T19 Theme:T4 Site:T24
+M2	Speculation E3
+E4	Protein_amino_acid_acetylation:T19 Theme:T4 Site:T23
+M3	Speculation E4
+E5	Protein_amino_acid_acetylation:T19 Theme:T4 Site:T22
+M4	Speculation E5
+E6	Protein_amino_acid_methylation:T25 Theme:T4 Site:T26
+M5	Speculation E6
+E7	Protein_amino_acid_acetylation:T27 Theme:T6 Site:T28
+E8	Protein_amino_acid_acetylation:T27 Theme:T7 Site:T29
+E9	Protein_amino_acid_acetylation:T30 Theme:T9 Site:T32
+E10	Protein_amino_acid_acetylation:T30 Theme:T8 Site:T31
+E11	Protein_amino_acid_methylation:T33 Theme:T10 Site:T34
+M6	Negation E11
+E12	Protein_amino_acid_methylation:T36 Theme:T11 Site:T35
+E13	Protein_amino_acid_methylation:T38 Theme:T14 Site:T37

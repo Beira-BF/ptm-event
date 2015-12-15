@@ -1,0 +1,8 @@
+T6	Entity 470 502	amino-terminal alpha-amino group
+T7	Protein_amino_acid_acetylation 523 533	acetylated
+T8	Protein_amino_acid_methylation 543 553	methylated
+T9	Entity 554 561	lysines
+T10	Protein_amino_acid_methylation 1236 1266	post-translational methylation
+E1	Protein_amino_acid_acetylation:T7 Theme:T2 Site:T6
+E2	Protein_amino_acid_methylation:T8 Theme:T2 Site:T9
+E3	Protein_amino_acid_methylation:T10 Theme:T5

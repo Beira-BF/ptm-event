@@ -1,0 +1,30 @@
+*	Equiv T5 T5
+T7	Entity 14 23	aspartate
+T8	Protein_amino_acid_hydroxylation 24 37	hydroxylation
+T9	Protein_amino_acid_hydroxylation 131 144	Hydroxylation
+T10	Entity 148 161	aspartic acid
+T11	Entity 165 191	erythro-beta-aspartic acid
+T12	Entity 193 196	Hya
+T13	Entity 344 362	consensus sequence
+T14	Protein_amino_acid_hydroxylation 367 380	hydroxylation
+T15	Protein_amino_acid_hydroxylation 674 691	beta-hydroxylated
+T16	Protein_amino_acid_hydroxylation 700 721	non-beta-hydroxylated
+T17	Protein_amino_acid_hydroxylation 1020 1032	hydroxylated
+T18	Protein_amino_acid_hydroxylation 1037 1052	nonhydroxylated
+T19	Protein_amino_acid_hydroxylation 1177 1190	hydroxylation
+E1	Protein_amino_acid_hydroxylation:T8 Theme:T1 Site:T7
+E2	Protein_amino_acid_hydroxylation:T8 Theme:T2 Site:T7
+E3	Protein_amino_acid_hydroxylation:T9 Theme:T2 Site:T10
+E4	Protein_amino_acid_hydroxylation:T9 Theme:T1 Site:T10
+E5	Protein_amino_acid_hydroxylation:T14 Theme:T2 Site:T13
+E6	Protein_amino_acid_hydroxylation:T14 Theme:T1 Site:T13
+E7	Protein_amino_acid_hydroxylation:T15 Theme:T3
+E8	Protein_amino_acid_hydroxylation:T15 Theme:T4
+E9	Protein_amino_acid_hydroxylation:T16 Theme:T4
+M1	Negation E9
+E10	Protein_amino_acid_hydroxylation:T16 Theme:T3
+M2	Negation E10
+E11	Protein_amino_acid_hydroxylation:T17 Theme:T5
+E12	Protein_amino_acid_hydroxylation:T18 Theme:T5
+M3	Negation E12
+E13	Protein_amino_acid_hydroxylation:T19 Theme:T6

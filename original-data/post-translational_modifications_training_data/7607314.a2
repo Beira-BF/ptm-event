@@ -1,0 +1,6 @@
+T2	Entity 473 485	N-terminally
+T3	Protein_amino_acid_acetylation 486 496	acetylated
+T4	Entity 707 717	N-terminal
+T5	Protein_amino_acid_acetylation 718 729	acetylation
+E1	Protein_amino_acid_acetylation:T3 Theme:T1 Site:T2
+E2	Protein_amino_acid_acetylation:T5 Theme:T1 Site:T4

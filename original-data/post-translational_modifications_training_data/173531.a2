@@ -1,0 +1,6 @@
+T4	Entity 296 314	calf skin collagen
+T5	Protein_amino_acid_hydroxylation 533 546	 Hydroxylatio
+T6	Entity 551 558	proline
+T7	Entity 563 569	lysine
+E1	Protein_amino_acid_hydroxylation:T5 Theme:T3 Site:T6
+E2	Protein_amino_acid_hydroxylation:T5 Theme:T3 Site:T7

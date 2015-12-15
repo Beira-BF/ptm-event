@@ -1,0 +1,39 @@
+T12	Protein_amino_acid_hydroxylation 26 39	hydroxylation
+T13	Entity 43 49	lysine
+T14	Entity 54 61	proline
+T15	Protein_amino_acid_hydroxylation 111 124	hydroxylation
+T16	Entity 128 134	lysine
+T17	Entity 139 146	proline
+T18	Protein_amino_acid_hydroxylation 375 388	hydroxylation
+T19	Entity 392 398	lysine
+T20	Protein_amino_acid_hydroxylation 541 554	Hydroxylation
+T21	Entity 558 564	lysine
+T22	Protein_amino_acid_hydroxylation 744 757	Hydroxylation
+T23	Entity 761 767	lysine
+T24	Entity 787 817	non-helical telopeptide region
+T25	Protein_amino_acid_hydroxylation 985 998	hydroxylation
+T26	Protein_amino_acid_hydroxylation 1143 1156	hydroxylation
+T27	Protein_amino_acid_hydroxylation 1385 1398	hydroxylation
+T28	Entity 1402 1408	lysine
+T29	Protein_amino_acid_hydroxylation 1594 1607	hydroxylation
+T30	Entity 1611 1630	telopeptidyl lysine
+T31	Protein_amino_acid_hydroxylation 1684 1697	hydroxylation
+T32	Entity 1701 1707	lysine
+T33	Protein_amino_acid_hydroxylation 1872 1885	hydroxylation
+T34	Entity 1889 1896	proline
+T35	Entity 2241 2248	proline
+T36	Protein_amino_acid_hydroxylation 2264 2276	hydroxylated
+E1	Protein_amino_acid_hydroxylation:T12 Theme:T1 Site:T13
+E2	Protein_amino_acid_hydroxylation:T12 Theme:T1 Site:T14
+E3	Protein_amino_acid_hydroxylation:T15 Theme:T2 Site:T16
+E4	Protein_amino_acid_hydroxylation:T15 Theme:T2 Site:T17
+E5	Protein_amino_acid_hydroxylation:T18 Theme:T3 Site:T19
+E6	Protein_amino_acid_hydroxylation:T20 Theme:T4 Site:T21
+E7	Protein_amino_acid_hydroxylation:T22 Theme:T6 Site:T23
+E8	Protein_amino_acid_hydroxylation:T25 Theme:T7 Site:T24
+E9	Protein_amino_acid_hydroxylation:T26 Theme:T8 Site:T24
+E10	Protein_amino_acid_hydroxylation:T27 Theme:T9 Site:T28
+E11	Protein_amino_acid_hydroxylation:T29 Theme:T9 Site:T30
+E12	Protein_amino_acid_hydroxylation:T31 Theme:T10 Site:T32
+E13	Protein_amino_acid_hydroxylation:T33 Theme:T11 Site:T34
+E14	Protein_amino_acid_hydroxylation:T36 Theme:T11 Site:T35

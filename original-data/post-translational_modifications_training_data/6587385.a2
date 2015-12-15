@@ -1,0 +1,5 @@
+T8	Protein_amino_acid_glycosylation 634 659	carbohydrate units linked
+T9	Entity 663 685	asparagine residues 70
+T10	Entity 690 693	192
+E1	Protein_amino_acid_glycosylation:T8 Theme:T3 Site:T9
+E2	Protein_amino_acid_glycosylation:T8 Theme:T3 Site:T10

@@ -1,0 +1,12 @@
+T12	Entity 944 954	N-terminal
+T13	Protein_amino_acid_acetylation 955 966	acetylation
+T14	Protein_amino_acid_methylation 1023 1036	1-methylation
+T15	Entity 1040 1046	His106
+T16	Protein_amino_acid_methylation 1089 1100	Methylation
+T17	Entity 1104 1110	His106
+T18	Protein_amino_acid_methylation 1306 1316	methylated
+T19	Entity 1317 1320	His
+E1	Protein_amino_acid_acetylation:T13 Theme:T6 Site:T12
+E2	Protein_amino_acid_methylation:T14 Theme:T6 Site:T15
+E3	Protein_amino_acid_methylation:T16 Theme:T6 Site:T17
+E4	Protein_amino_acid_methylation:T18 Theme:T6 Site:T19

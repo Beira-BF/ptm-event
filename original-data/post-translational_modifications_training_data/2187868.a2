@@ -1,0 +1,12 @@
+T10	Protein_amino_acid_hydroxylation 95 108	hydroxylation
+T11	Entity 112 125	aspartic acid
+T12	Protein_amino_acid_hydroxylation 1247 1259	hydroxylated
+T13	Entity 1374 1383	aspartate
+T14	Protein_amino_acid_hydroxylation 1497 1509	hydroxylated
+T15	Protein_amino_acid_hydroxylation 1534 1547	hydroxylation
+E1	Protein_amino_acid_hydroxylation:T10 Theme:T2 Site:T11
+E2	Protein_amino_acid_hydroxylation:T12 Theme:T5 Site:T13
+E3	Protein_amino_acid_hydroxylation:T14 Theme:T7
+E4	Protein_amino_acid_hydroxylation:T14 Theme:T6
+E5	Protein_amino_acid_hydroxylation:T15 Theme:T9
+E6	Protein_amino_acid_hydroxylation:T15 Theme:T8

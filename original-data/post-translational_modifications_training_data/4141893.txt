@@ -1,0 +1,2 @@
+Amino acid sequence of the smaller basic protein from rat brain myelin. 
+3. An arginine residue in the rat protein was found to be partially methylated. 

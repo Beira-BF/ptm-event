@@ -1,0 +1,9 @@
+T8	Entity 11 20	lysine 16
+T9	Protein_amino_acid_acetylation 21 32	acetylation
+T10	Entity 636 645	lysine 16
+T11	Protein_amino_acid_acetylation 646 657	acetylation
+T12	Entity 801 810	lysine 16
+T13	Protein_amino_acid_acetylation 811 822	acetylation
+E1	Protein_amino_acid_acetylation:T9 Theme:T1 Site:T8
+E2	Protein_amino_acid_acetylation:T11 Theme:T3 Site:T10
+E3	Protein_amino_acid_acetylation:T13 Theme:T5 Site:T12

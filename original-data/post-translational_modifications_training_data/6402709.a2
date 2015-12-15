@@ -1,0 +1,6 @@
+T12	Protein_amino_acid_methylation 974 984	methylated
+T13	Entity 988 1015	multiple glutamate residues
+E1	Protein_amino_acid_methylation:T12 Theme:T1 Site:T13
+E2	Protein_amino_acid_methylation:T12 Theme:T2 Site:T13
+E3	Protein_amino_acid_methylation:T12 Theme:T4 Site:T13
+E4	Protein_amino_acid_methylation:T12 Theme:T3 Site:T13

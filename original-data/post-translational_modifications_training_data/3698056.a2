@@ -1,0 +1,3 @@
+T3	Protein_amino_acid_glycosylation 215 243	carbohydrate moiety attached
+T4	Entity 247 257	asparagine
+E1	Protein_amino_acid_glycosylation:T3 Theme:T2 Site:T4

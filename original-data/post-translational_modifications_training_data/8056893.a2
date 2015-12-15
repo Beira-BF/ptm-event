@@ -1,0 +1,5 @@
+T16	Protein_amino_acid_hydroxylation 579 592	hydroxylation
+T17	Protein_amino_acid_glycosylation 608 621	glycosylation
+T18	Entity 625 631	lysine
+E1	Protein_amino_acid_hydroxylation:T16 Theme:T9 Site:T18
+E2	Protein_amino_acid_glycosylation:T17 Theme:T9 Site:T18

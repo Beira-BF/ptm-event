@@ -1,0 +1,12 @@
+T10	Protein_amino_acid_methylation 1182 1192	methylated
+T11	Entity 1202 1212	residues 9
+T12	Entity 1214 1216	27
+T13	Entity 1222 1224	36
+T14	Protein_amino_acid_acetylation 1234 1244	acetylated
+T15	Entity 1254 1265	residues 14
+T16	Entity 1270 1272	23
+E1	Protein_amino_acid_methylation:T10 Theme:T6 Site:T11
+E2	Protein_amino_acid_methylation:T10 Theme:T6 Site:T12
+E3	Protein_amino_acid_methylation:T10 Theme:T6 Site:T13
+E4	Protein_amino_acid_acetylation:T14 Theme:T6 Site:T16
+E5	Protein_amino_acid_acetylation:T14 Theme:T6 Site:T15

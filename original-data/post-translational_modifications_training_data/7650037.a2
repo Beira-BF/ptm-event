@@ -1,0 +1,6 @@
+T8	Protein_amino_acid_hydroxylation 1216 1226	conversion
+T9	Entity 1230 1239	tyrosines
+T10	Protein_amino_acid_hydroxylation 1273 1286	hydroxylation
+T11	Entity 1290 1299	arginines
+E1	Protein_amino_acid_hydroxylation:T8 Theme:T3 Site:T9
+E2	Protein_amino_acid_hydroxylation:T10 Theme:T3 Site:T11

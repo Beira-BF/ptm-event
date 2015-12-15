@@ -1,0 +1,5 @@
+T6	Entity 972 978	Asn271
+T7	Entity 983 989	Asn300
+T8	Protein_amino_acid_glycosylation 996 1021	oligosaccharides attached
+E1	Protein_amino_acid_glycosylation:T8 Theme:T5 Site:T6
+E2	Protein_amino_acid_glycosylation:T8 Theme:T5 Site:T7

@@ -1,0 +1,3 @@
+T5	Entity 1083 1089	lysine
+T6	Protein_amino_acid_methylation 1090 1101	methylation
+E1	Protein_amino_acid_methylation:T6 Theme:T4 Site:T5

@@ -1,0 +1,3 @@
+T17	Entity 1518 1537	Asn-Met-Thr (34-36)
+T18	Protein_amino_acid_glycosylation 1541 1553	glycosylated
+E1	Protein_amino_acid_glycosylation:T18 Theme:T14 Site:T17

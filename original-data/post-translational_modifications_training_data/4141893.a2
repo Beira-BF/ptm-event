@@ -1,0 +1,3 @@
+T2	Entity 79 87	arginine
+T3	Protein_amino_acid_methylation 139 149	y methylat
+E1	Protein_amino_acid_methylation:T3 Theme:T1 Site:T2

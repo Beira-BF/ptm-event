@@ -1,0 +1,7 @@
+T2	Entity 923 930	Asn-157
+T3	Entity 932 939	Asn-192
+T4	Entity 944 951	Asn-264
+T5	Protein_amino_acid_glycosylation 1049 1061	glycosylated
+E1	Protein_amino_acid_glycosylation:T5 Theme:T1 Site:T2
+E2	Protein_amino_acid_glycosylation:T5 Theme:T1 Site:T3
+E3	Protein_amino_acid_glycosylation:T5 Theme:T1 Site:T4

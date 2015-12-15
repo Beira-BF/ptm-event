@@ -1,0 +1,4 @@
+T7	Protein_amino_acid_acetylation 667 677	acetylated
+T8	Entity 678 696	N-terminal residue
+E1	Protein_amino_acid_acetylation:T7 Theme:T3 Site:T8
+E2	Protein_amino_acid_acetylation:T7 Theme:T4 Site:T8

@@ -1,0 +1,3 @@
+T6	Entity 312 329	amino(N)-terminus
+T7	Protein_amino_acid_acetylation 334 362	blocked with an acetyl group
+E1	Protein_amino_acid_acetylation:T7 Theme:T2 Site:T6

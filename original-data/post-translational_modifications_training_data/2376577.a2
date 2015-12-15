@@ -1,0 +1,3 @@
+T19	Protein_amino_acid_acetylation 585 595	acetylated
+T20	Entity 596 608	NH2 terminus
+E1	Protein_amino_acid_acetylation:T19 Theme:T8 Site:T20

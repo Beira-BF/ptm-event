@@ -1,0 +1,8 @@
+T18	Protein_amino_acid_acetylation 1287 1297	acetylated
+T19	Entity 1305 1330	N-terminal serine residue
+T20	Entity 1316 1322	serine
+T21	Protein_amino_acid_methylation 1345 1355	methylated
+T22	Entity 1363 1369	lysine
+T23	Entity 1363 1380	lysine residue 25
+E1	Protein_amino_acid_acetylation:T18 Theme:T16 Site:T20
+E2	Protein_amino_acid_methylation:T21 Theme:T16 Site:T22

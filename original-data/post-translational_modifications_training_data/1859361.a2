@@ -1,0 +1,3 @@
+T5	Entity 723 733	N-terminus
+T6	Protein_amino_acid_acetylation 812 843	blocking group as an acetyl one
+E1	Protein_amino_acid_acetylation:T6 Theme:T2 Site:T5

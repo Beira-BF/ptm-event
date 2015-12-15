@@ -1,0 +1,3 @@
+T5	Entity 833 847	NH2-terminally
+T6	Protein_amino_acid_acetylation 848 858	acetylated
+E1	Protein_amino_acid_acetylation:T6 Theme:T3 Site:T5

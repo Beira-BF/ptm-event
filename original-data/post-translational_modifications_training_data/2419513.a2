@@ -1,0 +1,12 @@
+*	Equiv T8 T9
+T6	Protein_amino_acid_methylation 48 57	methylate
+T7	Protein_amino_acid_methylation 219 230	methylation
+T8	Entity 234 245	residue 107
+T9	Entity 247 255	arginine
+T10	Protein_amino_acid_methylation 604 615	methylation
+T11	Entity 619 631	arginine 107
+T12	Protein_amino_acid_methylation 810 821	methylation
+E1	Protein_amino_acid_methylation:T6 Theme:T1
+E2	Protein_amino_acid_methylation:T7 Theme:T2 Site:T8
+E3	Protein_amino_acid_methylation:T10 Theme:T4 Site:T11
+E4	Protein_amino_acid_methylation:T12 Theme:T5

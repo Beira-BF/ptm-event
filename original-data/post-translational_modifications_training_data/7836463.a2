@@ -1,0 +1,8 @@
+*	Equiv T3 T2
+T9	Protein_amino_acid_glycosylation 393 417	carbohydrate is attached
+T10	Entity 421 428	Asn-122
+T11	Entity 430 434	-161
+T12	Entity 440 444	-206
+E1	Protein_amino_acid_glycosylation:T9 Theme:T3 Site:T10
+E2	Protein_amino_acid_glycosylation:T9 Theme:T3 Site:T11
+E3	Protein_amino_acid_glycosylation:T9 Theme:T3 Site:T12

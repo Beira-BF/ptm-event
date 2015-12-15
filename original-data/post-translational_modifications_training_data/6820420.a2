@@ -1,0 +1,6 @@
+T4	Protein_amino_acid_hydroxylation 7 20	hydroxylation
+T5	Entity 24 31	proline
+T6	Protein_amino_acid_hydroxylation 133 146	hydroxylation
+T7	Entity 150 157	proline
+E1	Protein_amino_acid_hydroxylation:T4 Theme:T1 Site:T5
+E2	Protein_amino_acid_hydroxylation:T6 Theme:T2 Site:T7

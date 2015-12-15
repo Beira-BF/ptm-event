@@ -1,0 +1,3 @@
+T7	Entity 450 462	NH2 terminus
+T8	Protein_amino_acid_acetylation 466 492	blocked by an acetyl group
+E1	Protein_amino_acid_acetylation:T8 Theme:T4 Site:T7

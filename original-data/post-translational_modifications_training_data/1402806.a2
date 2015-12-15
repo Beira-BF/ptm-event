@@ -1,0 +1,4 @@
+T2	Protein_amino_acid_glycosylation 1105 1136	potential O-glycosylation sites
+T3	Entity 1152 1169	N-terminal domain
+E1	Protein_amino_acid_glycosylation:T2 Theme:T1 Site:T3
+M1	Speculation E1

@@ -1,0 +1,13 @@
+T6	Entity 0 6	Lysine
+T7	Protein_amino_acid_hydroxylation 7 20	hydroxylation
+T8	Entity 75 81	lysine
+T9	Entity 83 86	Lys
+T10	Protein_amino_acid_hydroxylation 88 101	hydroxylation
+T11	Entity 567 570	Lys
+T12	Protein_amino_acid_hydroxylation 571 584	hydroxylation
+T13	Entity 933 936	Lys
+T14	Protein_amino_acid_hydroxylation 937 950	hydroxylation
+E1	Protein_amino_acid_hydroxylation:T7 Theme:T1 Site:T6
+E2	Protein_amino_acid_hydroxylation:T10 Theme:T2 Site:T9
+E3	Protein_amino_acid_hydroxylation:T12 Theme:T4 Site:T11
+E4	Protein_amino_acid_hydroxylation:T14 Theme:T5 Site:T13

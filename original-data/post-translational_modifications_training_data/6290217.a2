@@ -1,0 +1,11 @@
+*	Equiv T3 T3
+*	Equiv T4 T4
+T5	Entity 275 284	threonine
+T6	Phosphorylation 306 320	phosphorylated
+T7	Entity 441 451	methionine
+T8	Protein_amino_acid_acetylation 455 465	acetylated
+T9	Entity 542 551	Serine-67
+T10	Phosphorylation 569 583	phosphorylated
+E1	Phosphorylation:T6 Theme:T2 Site:T5
+E2	Protein_amino_acid_acetylation:T8 Theme:T3 Site:T7
+E3	Phosphorylation:T10 Theme:T4 Site:T9

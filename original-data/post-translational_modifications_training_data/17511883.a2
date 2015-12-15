@@ -1,0 +1,6 @@
+*	Equiv T5 T6
+T25	Protein_amino_acid_acetylation 333 343	acetylates
+T26	Positive_regulation 333 343	acetylates
+T27	Entity 358 367	lysine 16
+E1	Protein_amino_acid_acetylation:T25 Theme:T5 Site:T27
+E2	Positive_regulation:T26 Theme:E1 Cause:T4

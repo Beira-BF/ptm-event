@@ -1,0 +1,17 @@
+T19	Protein_modification 480 492	carboxylated
+T20	Entity 515 528	glutamic acid
+T21	Protein_amino_acid_hydroxylation 546 558	hydroxylated
+T22	Entity 559 572	aspartic acid
+T23	Protein_amino_acid_glycosylation 590 602	glycosylated
+T24	Entity 603 613	asparagine
+T25	Entity 1216 1229	glutamic acid
+T26	Protein_modification 1262 1280	gamma-carboxylated
+T27	Entity 1421 1444	Asparagine residues 145
+T28	Entity 1449 1452	322
+T29	Protein_amino_acid_glycosylation 1476 1490	N-glycosylated
+E1	Protein_modification:T19 Theme:T6 Site:T20
+E2	Protein_amino_acid_hydroxylation:T21 Theme:T6 Site:T22
+E3	Protein_amino_acid_glycosylation:T23 Theme:T6 Site:T24
+E4	Protein_modification:T26 Theme:T13 Site:T25
+E5	Protein_amino_acid_glycosylation:T29 Theme:T15 Site:T28
+E6	Protein_amino_acid_glycosylation:T29 Theme:T15 Site:T27

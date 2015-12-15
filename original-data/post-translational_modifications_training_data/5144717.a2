@@ -1,0 +1,3 @@
+T2	Protein_amino_acid_hydroxylation 15 28	hydroxylation
+T3	Entity 32 38	lysine
+E1	Protein_amino_acid_hydroxylation:T2 Theme:T1 Site:T3

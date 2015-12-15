@@ -1,0 +1,6 @@
+*	Equiv T1 T2
+T6	Phosphorylation 246 261	phosphorylation
+T7	Protein_amino_acid_acetylation 374 386	N-acetylated
+T8	Entity 387 393	serine
+E1	Phosphorylation:T6 Theme:T4
+E2	Protein_amino_acid_acetylation:T7 Theme:T4 Site:T8

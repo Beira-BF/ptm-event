@@ -1,0 +1,3 @@
+T8	Protein_amino_acid_acetylation 273 303	has an acylated amino terminus
+T9	Entity 289 303	amino terminus
+E1	Protein_amino_acid_acetylation:T8 Theme:T2 Site:T9

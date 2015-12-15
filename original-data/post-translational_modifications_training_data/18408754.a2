@@ -1,0 +1,25 @@
+T13	Entity 11 20	lysine 20
+T14	Protein_amino_acid_methylation 21 36	monomethylation
+T15	Protein_amino_acid_methylation 343 348	mono-
+T16	Protein_amino_acid_methylation 353 365	dimethylated
+T17	Entity 366 373	lysines
+T18	Protein_amino_acid_methylation 545 550	mono-
+T19	Protein_amino_acid_methylation 555 567	dimethylated
+T20	Entity 568 575	lysines
+T21	Entity 909 912	K20
+T22	Protein_amino_acid_methylation 913 928	monomethylation
+T23	Entity 1282 1285	K20
+T24	Protein_amino_acid_methylation 1286 1301	monomethylation
+E1	Protein_amino_acid_methylation:T14 Theme:T1 Site:T13
+E2	Protein_amino_acid_methylation:T15 Theme:T2 Site:T17
+E3	Protein_amino_acid_methylation:T15 Theme:T3 Site:T17
+E4	Protein_amino_acid_methylation:T16 Theme:T3 Site:T17
+E5	Protein_amino_acid_methylation:T16 Theme:T2 Site:T17
+E6	Protein_amino_acid_methylation:T18 Theme:T4 Site:T20
+E7	Protein_amino_acid_methylation:T18 Theme:T6 Site:T20
+E8	Protein_amino_acid_methylation:T18 Theme:T5 Site:T20
+E9	Protein_amino_acid_methylation:T19 Theme:T4 Site:T20
+E10	Protein_amino_acid_methylation:T19 Theme:T5 Site:T20
+E11	Protein_amino_acid_methylation:T19 Theme:T6 Site:T20
+E12	Protein_amino_acid_methylation:T22 Theme:T7 Site:T21
+E13	Protein_amino_acid_methylation:T24 Theme:T12 Site:T23

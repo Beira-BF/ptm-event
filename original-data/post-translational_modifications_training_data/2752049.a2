@@ -1,0 +1,3 @@
+T8	Protein_amino_acid_acetylation 404 414	acetylated
+T9	Entity 415 422	alanine
+E1	Protein_amino_acid_acetylation:T8 Theme:T4 Site:T9

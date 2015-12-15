@@ -1,0 +1,10 @@
+T6	Protein_amino_acid_hydroxylation 0 13	Hydroxylation
+T7	Entity 17 30	aspartic acid
+T8	Positive_regulation 97 106	catalyzed
+T9	Protein_amino_acid_hydroxylation 457 470	hydroxylation
+T10	Entity 474 487	aspartic acid
+T11	Entity 492 502	asparagine
+E1	Protein_amino_acid_hydroxylation:T6  Site:T7
+E2	Positive_regulation:T8 Theme:E1 Cause:T2
+E3	Protein_amino_acid_hydroxylation:T9  Site:T11
+E4	Protein_amino_acid_hydroxylation:T9  Site:T10

@@ -1,0 +1,4 @@
+*	Equiv T1 T2
+T5	Protein_amino_acid_hydroxylation 637 649	hydroxylated
+T6	Entity 650 661	amino acids
+E1	Protein_amino_acid_hydroxylation:T5 Theme:T3 Site:T6

@@ -1,0 +1,4 @@
+T5	Entity 270 280	N-terminus
+T6	Protein_amino_acid_acetylation 308 318	acetylated
+E1	Protein_amino_acid_acetylation:T6 Theme:T2 Site:T5
+M1	Speculation E1

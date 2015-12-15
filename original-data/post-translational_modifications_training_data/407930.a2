@@ -1,0 +1,3 @@
+T5	Protein_amino_acid_glycosylation 634 666	oligosaccharide structure linked
+T6	Entity 670 680	asparagine
+E1	Protein_amino_acid_glycosylation:T5 Theme:T4 Site:T6

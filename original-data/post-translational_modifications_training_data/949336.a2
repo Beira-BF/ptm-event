@@ -1,0 +1,27 @@
+T4	Protein_amino_acid_hydroxylation 0 13	Hydroxylation
+T5	Entity 17 23	lysine
+T6	Protein_amino_acid_glycosylation 28 41	glycosylation
+T7	Entity 45 58	hydroxylysine
+T8	Protein_amino_acid_hydroxylation 131 144	Hydroxylation
+T9	Entity 148 154	lysine
+T10	Protein_amino_acid_glycosylation 159 172	glycosylation
+T11	Entity 176 189	hydroxylysine
+T12	Protein_amino_acid_hydroxylation 440 453	hydroxylation
+T13	Entity 457 469	[14C]proline
+T14	Protein_amino_acid_hydroxylation 630 643	hydroxylation
+T15	Entity 647 658	[14C]lysine
+T16	Protein_amino_acid_glycosylation 667 681	glycosylations
+T17	Entity 685 703	hydroxy[14C]lysine
+T18	Protein_amino_acid_hydroxylation 937 950	hydroxylation
+T19	Entity 954 965	[14C]lysine
+T20	Protein_amino_acid_glycosylation 974 988	glycosylations
+T21	Entity 992 1011	hydroxyl[14C]lysine
+E1	Protein_amino_acid_hydroxylation:T4 Theme:T1 Site:T5
+E2	Protein_amino_acid_glycosylation:T6 Theme:T1 Site:T7
+E3	Protein_amino_acid_hydroxylation:T8 Theme:T2 Site:T9
+E4	Protein_amino_acid_glycosylation:T10 Theme:T2 Site:T11
+E5	Protein_amino_acid_hydroxylation:T12 Theme:T3 Site:T13
+E6	Protein_amino_acid_hydroxylation:T14 Theme:T3 Site:T15
+E7	Protein_amino_acid_glycosylation:T16 Theme:T3 Site:T17
+E8	Protein_amino_acid_hydroxylation:T18 Theme:T3 Site:T19
+E9	Protein_amino_acid_glycosylation:T20 Theme:T3 Site:T21
